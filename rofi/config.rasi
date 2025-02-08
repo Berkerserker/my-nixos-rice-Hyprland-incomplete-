@@ -1,0 +1,9 @@
+//@theme "/run/current-system/sw/share/rofi/themes/sidebar.rasi"
+
+@theme "/home/cloudz/.local/share/rofi/themes/simple-tokyonight.rasi"
+
+window {
+    location: center;
+    anchor: center;
+    width: 30%;
+}
