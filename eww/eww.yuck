@@ -1,0 +1,14 @@
+(defwindow controlpanel
+           :monitor 0
+           :geometry (geometry :x "0.5%"
+                               :y "10px"
+                               :width "20%"
+                               :height "300px"
+                               :anchor "top left")
+           :stacking "fg"
+           ;; :reserve (struts :distance "40px" :side "top")
+           :windowtype "normal"
+           :wm-ignore false
+  "control panel")
+
+(defwidget )
